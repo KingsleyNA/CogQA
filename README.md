@@ -1,4 +1,4 @@
-# CogQA - A Cognitive Dataset for Question Answering
+# CogQA - Bringing "Real" Cognition to Question Answering
 
 CogQA is an introduction of a realistic dataset for cognitive-inclined Question Answering. The files contains modification of "WikiQA's test dataset", by addition some cognitive features. This dataset is free to use for research purposes, but do well to cite "WikiQA".
 
