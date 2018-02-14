@@ -1,4 +1,4 @@
-# CogQA
+# CogQA - A Cognitive Dataset for Question Answering
 
 CogQA is an introduction of a realistic dataset for cognitive-inclined Question Answering. The files contains modification of "WikiQA's test dataset", by addition some cognitive features. This dataset is free to use for research purposes, but do well to cite "WikiQA".
 
@@ -9,6 +9,14 @@ For simplicity and the sake of research, the data has been grouped:
 2. CogQA_Test_Questions_With_Answers -------
 3. CogQA_Test ------------------------------  
 4. WikiQA_Test ----------------------------- test data used by Yang et al. in "WIKIQA: A Challenge Dataset for Open-Domain Question Answering".
+------------------------------------------------------------------------------------------
+Quick Note:
+------------------------------------------------------------------------------------------
+CogQA was created by with an IBM Watson NLU customized model, in order to also cater for advanced text analysis of Answer Triggering tasks. Answer Triggering is deemed one of the hardest NLP tasks to solve. The dataset possesses Categories, Concepts, Entities and Keywords; of Questions and Candidate sentence, and their respective confidence scores. 
+ref: https://www.ibm.com/watson/services/natural-language-understanding
+
+------------------------------------------------------------------------------------------
+Columns of the CogQA dataset:
 ------------------------------------------------------------------------------------------
 Each of files 1, 2 and 3, has:
 1. Col 1 ---- Question
