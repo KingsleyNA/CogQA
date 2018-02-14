@@ -9,7 +9,7 @@ For simplicity and the sake of research, the data has been grouped:
 2. CogQA_Test_Questions_With_Answers -------
 3. CogQA_Test ------------------------------  
 4. WikiQA_Test ----------------------------- test data used by Yang et al. in "WIKIQA: A Challenge Dataset for Open-Domain Question Answering".
-
+------------------------------------------------------------------------------------------
 Each of files 1, 2 and 3, has:
 1. Col 1 ---- Question
 2. Col 2 ---- Question's 1st cognitive category (cognitively ranked 1st)
